@@ -9,12 +9,12 @@
 <h3 align="left">Skills</h3>
 
 <h4 align="left">Front-end Skills</h4>
-Vue.JS / JavaScript / Nuxt.JS / TypeScript / GraphQL / Ajax / Vuex / Vue Router 
-HTML / HTML5 / CSS / CSS3 / Sass / Jest / Pug.JS / Gulp.js / Bootstrap / Vuetify 
+Vue.JS / JavaScript / Nuxt.JS / TypeScript / GraphQL / Ajax / Vuex / Vue Router <br /> 
+HTML / HTML5 / CSS / CSS3 / Sass / Jest / Pug.JS / Gulp.js / Bootstrap / Vuetify <br />
 Tailwind.CSS / Inertia.JS / JQuery / Charts.JS / Highcharts / Pug.JS / Gulp.js
 
 <h4 align="left">Back-end Skills</h4>
-PHP / Laravel / OOP / SQL / MySQL / MongoDB / PostgreSQL 
+PHP / Laravel / OOP / SQL / MySQL / MongoDB / PostgreSQL <br />
 Node.JS / Express / Prisma / Mongoose / Sockets / Restful API 
 
 <h4 align="left">Other</h4>
