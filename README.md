@@ -8,13 +8,13 @@
 
 <h3 align="left">Skills</h3>
 
-𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬
+𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 <br />
 Vue.JS | JavaScript | Nuxt.JS | React | Next.JS | TypeScript | GraphQL | Ajax | Vuex | Redux | Vue Router | HTML | HTML5 | CSS | CSS3 | Sass | Jest | Pug.JS | Gulp.js | Bootstrap | Vuetify | Tailwind.CSS | Inertia.JS | jQuery | Charts.JS | Highcharts | Pug.JS | Gulp.js | Storybook
 
-𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬
+𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 <br />
 PHP | Laravel | OOP | SQL | MySQL | MongoDB | PostgreSQL | Node.JS | Express | Prisma | Mongoose | Sockets | Restful API 
 
-𝐎𝐭𝐡𝐞𝐫
+𝐎𝐭𝐡𝐞𝐫 <br />
 Git | PWA | AWS | ES6 | MVC | SSR | Apache | VSC | Scrum/Agile
 
 <br /><br />
