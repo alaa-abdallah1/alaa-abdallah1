@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alaa Abdallah</h1>
-<h3 align="center">A passionate and innovative developer from Egypt</h3>
+<h3 align="center">A passionate and innovative Full-stack developer</h3>
 <p align="center"><a href="https://www.linkedin.com/in/alaa-abdallah1/" target="_blank"> <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="vue"  height="40"/> </a></p>
 
 - 🔭 I’m currently working at [Foodics](https://www.foodics.com/)
-- 💬 Ask me about Vue.JS, Javascript, Node.jS, Nuxt.JS, Php, Laravel, PostgreSQL, Git
-- 📫 How to reach me: alaa.abdallah.me@gmail.com 
+- 💬 Ask me about Vue.JS, React.JS, Javascript, Node.jS, Nuxt.JS, Php, Laravel, GraphQL, PostgreSQL, Git
+- 📫 **How to reach me:** 📧 alaa.abdallah.me@gmail.com  📞 [+201114134482](+201114134482) 
 
 <h3 align="left">Skills</h3>
 
