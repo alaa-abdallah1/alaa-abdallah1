@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alaa Abdallah</h1>
+<h1 align="center">Hi 👋 I'm Alaa Abdallah</h1>
 <h3 align="center">A Passionate & Innovative Full Stack Developer</h3>
 <h4 align="center">Vue, React, TypeScript, GraphQL, Laravel, Node.js</h4> 
 <p align="center"><a href="https://www.linkedin.com/in/alaa-abdallah1/" target="_blank"> <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="vue"  height="40"/> </a></p>
