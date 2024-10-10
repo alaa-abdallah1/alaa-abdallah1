@@ -5,7 +5,7 @@
 
 <h3 align="left">About</h3>
 
- 🔭 **I’m currently working at** [Foodics](https://www.foodics.com/) <br />
+ 🔭 **I’m currently working at** [Holo](https://www.useholo.com/) <br />
  💬 **Ask me about** Vue.JS, React.JS, Javascript, TypeScript, Node.jS, Nuxt.JS, Php, Laravel, GraphQL, PostgreSQL, Git <br />
  📫 **How to reach me:** 📧 alaa.abdallah.me@gmail.com  📞 [+201114134482](+201114134482) <br />
 
