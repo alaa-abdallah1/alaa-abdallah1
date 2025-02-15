@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Alaa Abdallah</h1>
 <h3 align="center">A Passionate & Innovative Full Stack Developer</h3>
-<h4 align="center">Vue, React, TypeScript, GraphQL, Laravel, Node.js</h4> 
+<h4 align="center">Vue, React, Angular, TypeScript, GraphQL, Laravel, Node.js</h4> 
 <p align="center"><a href="https://www.linkedin.com/in/alaa-abdallah1/" target="_blank"> <img src="https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-31623962207jz85kqlqot.png" alt="vue"  height="40"/> </a></p>
 
 <h3 align="left">About</h3>
@@ -12,7 +12,7 @@
 <h3 align="left">Skills</h3>
 
 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 <br />
-Vue.JS | JavaScript | Nuxt.JS | React | Next.JS | TypeScript | GraphQL | Ajax | Vuex | Redux | Vue Router | HTML | HTML5 | CSS | CSS3 | Sass | Jest | Pug.JS | Gulp.js | Bootstrap | Vuetify | Tailwind.CSS | Inertia.JS | jQuery | Charts.JS | Highcharts | Pug.JS | Gulp.js | Storybook
+Vue.JS | JavaScript | Nuxt.JS | React | Angular | Next.JS | TypeScript | GraphQL | Ajax | Vuex | Redux | RxJS | Vue Router | HTML | HTML5 | CSS | CSS3 | Sass | Jest | Pug.JS | Gulp.js | Bootstrap | Vuetify | Tailwind.CSS | Inertia.JS | jQuery | Charts.JS | Highcharts | Pug.JS | Gulp.js | Storybook | Cypress
 
 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬 <br />
 PHP | Laravel | OOP | SQL | MySQL | MongoDB | PostgreSQL | Node.JS | Express | Prisma | Mongoose | Sockets | Restful API
